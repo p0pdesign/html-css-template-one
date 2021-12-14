@@ -31,7 +31,7 @@ body {
     /* font-family: 'Playfair Display', serif;  */
     /* +++++++++++++ عربى */
     /* font-family: 'Tajawal', sans-serif;   */
-    background:var(--dark);
+    background:var(--gray-30);
 }
 .container {
     margin-left: auto;
@@ -40,7 +40,7 @@ body {
     padding-right: 15px;
 }
 .main-ttl {
-    color: var(--clr-light-200);
+    color: var(--gray-210);
     font-size: 100px;
     text-align: center;
     font-weight: 800;
@@ -48,7 +48,7 @@ body {
     margin: 0;
 }
 .main-ttl + p {
-    color: var(--clr-light-300);
+    color: var(--gray-90);
     text-align: center;
     margin-top: -30px;
     font-size: 20px;
