@@ -26,11 +26,6 @@ html {
 }
 body {
     font-family: 'Open Sans', sans-serif;
-    /* font-family: 'Roboto', sans-serif; */
-    /* +++++++++ with serf */
-    /* font-family: 'Playfair Display', serif;  */
-    /* +++++++++++++ عربى */
-    /* font-family: 'Tajawal', sans-serif;   */
     background:var(--gray-30);
 }
 .container {
